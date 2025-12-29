@@ -1,4 +1,4 @@
-### 🚓 ESP32-S3 Night Patrolling Robot (Firmware)
+# 🚓 ESP32-S3 Night Patrolling Robot (Firmware)
 This repository contains the Arduino firmware for an ESP32-S3 based Night Patrolling Surveillance Robot.
 The firmware enables real-time sensing, autonomous navigation, Firebase connectivity, GPS tracking, GSM alerts, and remote control.
 ## 📌 Firmware Overview
