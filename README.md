@@ -25,8 +25,8 @@ Alerts trigger buzzer and SMS
 Robot responds to Firebase control commands.
 ## 🛠️ Required Libraries
 Install the following libraries via Arduino Library Manager:
-Firebase ESP Client
-TinyGPSPlus
-Adafruit MPU6050
-Adafruit Unified Sensor
-ESP32Servo
+#### Firebase ESP Client
+#### TinyGPSPlus
+#### Adafruit MPU6050
+#### Adafruit Unified Sensor
+#### ESP32Servo
