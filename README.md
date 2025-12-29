@@ -14,7 +14,7 @@ GPS-based live location tracking
 GSM-based SMS alert system
 PWM buzzer alarm system
 Servo-based scanning mechanism
-Real-time telemetry upload
+Real-time telemetry upload.
 ## 🧠 System Workflow
 ESP32 connects to Wi-Fi
 Firebase connection is established
@@ -22,10 +22,10 @@ Sensors initialize and start monitoring
 Telemetry uploads every few seconds
 GPS updates live location
 Alerts trigger buzzer and SMS
-Robot responds to Firebase control commands 
+Robot responds to Firebase control commands.
 ## 🛠️ Required Libraries
 Install the following libraries via Arduino Library Manager:
-Firebase ESP Client (v4.4.x recommended)
+Firebase ESP Client
 TinyGPSPlus
 Adafruit MPU6050
 Adafruit Unified Sensor
